@@ -1,0 +1,4 @@
+#define craft_shoot_width 1
+#define craft_shoot_height 4
+static unsigned char craft_shoot_bits[] = {
+   0x01, 0x01, 0x01, 0x01 };
